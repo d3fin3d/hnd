@@ -1,0 +1,7 @@
+{
+    "184694956131221515" : {
+        "CHANNEL" : "184699682440740864",
+        "GREETING" : "Welcome to {1.name}, {0.mention}! Type `-country [code]` to specify your location (e.g `-country GB`) and type `.me set yourtag#1234 region` (tag is case-sensitive) to set up your stats profile. Love, your faithful healer, Mercy <3.",
+        "ON" : true
+    }
+}

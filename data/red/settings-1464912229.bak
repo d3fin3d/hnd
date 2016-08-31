@@ -1,0 +1,13 @@
+{
+    "EMAIL" : "MTg1ODMyMjIwOTU3NzM2OTYw.CjJYVg.UnbFv0uH_U_4A0QQw-wlYvy7ls0",
+    "LOGIN_TYPE" : "token",
+    "OWNER" : "id_here",
+    "PASSWORD" : "",
+    "PREFIXES" : [
+        "."
+    ],
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator"
+    }
+}
